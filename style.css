@@ -12,4 +12,8 @@ img {
     margin-right: auto;
     width: 700px;
     height: auto;
+    border: 12px outset #e1c31f;
+    padding-left: 310px;
+    padding-right: 310px;
+    background: repeating-linear-gradient(50deg, black, #6a5f22 100px);
 }
