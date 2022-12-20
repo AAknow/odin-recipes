@@ -2,8 +2,11 @@
     text-align: center;
     font-size: 40px;
     background-color: black;
-    color: white;
+    color: #d8a21c;
     margin-bottom: auto;
+    padding: 35px;
+    text-transform: uppercase;
+    text-decoration: underline;
 }
 
 img {
@@ -12,8 +15,12 @@ img {
     margin-right: auto;
     width: 700px;
     height: auto;
-    border: 12px outset #e1c31f;
+    border: 12px outset #670404;
     padding-left: 310px;
     padding-right: 310px;
-    background: repeating-linear-gradient(50deg, black, #6a5f22 100px);
+    background: repeating-linear-gradient(50deg,#d8a31c, black 100px);
+}
+.background {
+    border: 2px solid black;
+    background: linear-gradient(180deg, black, #d8a31c);
 }
